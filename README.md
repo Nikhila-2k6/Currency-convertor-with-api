@@ -2,7 +2,6 @@
 
 A simple web-based currency converter that allows users to convert between various currencies using real-time exchange rates. Powered by the [Exchange API](https://github.com/fawazahmed0/exchange-api).
 
-It is deployed here : https://manikiran949.github.io/CurrencySync-Currency-Convertor/
 
 ## Features
 
@@ -17,13 +16,6 @@ It is deployed here : https://manikiran949.github.io/CurrencySync-Currency-Conve
 - CSS
 - JavaScript
 - [Exchange API](https://github.com/fawazahmed0/exchange-api)
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/manikiran949/CurrencySync-Currency-Convertor.git
-2. Open the index.html file in your browser to start using the currency converter.
 
 ## Usage
 1. Enter the amount you wish to convert.
