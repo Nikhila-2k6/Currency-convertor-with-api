@@ -44,7 +44,3 @@ This project uses the [Exchange API](https://github.com/fawazahmed0/exchange-api
 https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json
 
 This endpoint returns the exchange rates for USD against various currencies. Replace `usd` with the desired base currency code.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
